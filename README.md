@@ -23,7 +23,3 @@ A Flutter application that shows **live weather** for cities around the world. U
 - A device or emulator to run the app  
 
 ---
-
-### Clone the repository
-
-```bash
