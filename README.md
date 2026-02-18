@@ -12,11 +12,6 @@ A Flutter application that shows **live weather** for cities around the world. U
 - Feels like temperature, humidity, and wind speed displayed  
 - Simple, clean, and modern UI  
 
----
-
-## Screenshots
-
-*(Add screenshots of your app here)*
 
 ---
 
