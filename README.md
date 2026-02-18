@@ -1,18 +1,34 @@
-# live_weather
+# Live Weather App
 
-A new Flutter project.
+A Flutter application that shows **live weather** for cities around the world. Users can search for any city and view the **current temperature, weather conditions, wind, humidity**, and enjoy **animated weather visuals** using Lottie animations.
+
+---
+
+## Features
+
+- Current weather for the user’s location  
+- Search any city in the world  
+- Lottie animations for different weather conditions  
+- Feels like temperature, humidity, and wind speed displayed  
+- Simple, clean, and modern UI  
+
+---
+
+## Screenshots
+
+*(Add screenshots of your app here)*
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed ([Flutter installation guide](https://flutter.dev/docs/get-started/install))  
+- A device or emulator to run the app  
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# live-weather
+### Clone the repository
+
+```bash
